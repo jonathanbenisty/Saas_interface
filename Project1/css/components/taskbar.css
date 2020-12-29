@@ -1,0 +1,147 @@
+
+.card {
+	background-color: white;
+	box-shadow: 0px 6px 18px rgba(0, 0, 0, 0.06);
+	border-radius: 4px;
+	height: 19%;
+	padding: 10px;
+	margin-bottom: 20px;
+	border: 2px solid red;
+	position: relative;
+	
+}
+
+
+.card-wrapper {
+    height: 100%;
+    padding: 20px;
+    background: white;
+}
+
+.card-category {
+
+	top: 20px;
+	left: 23px;
+	display: flex;
+	flex: 1;
+
+}
+
+.card-category p {
+	display: flex;
+	justify-content: flex-end;
+	
+}
+
+.card-description h2 {
+
+    top: 57px;
+	left: 23px;
+	color: gray;
+	font-weight: 500;
+	font-size: 17px;
+	opacity: 0.8;
+}
+
+.card-description > div {
+    justify-content: flex-end;
+    display: flex;
+}
+
+.card h4 {
+	
+    top: 13px;
+    right: 30px;
+    font-size: 14px;
+    color: gray;
+    font-weight: 600;
+    opacity: 0.6;
+}
+
+.card h5 {
+	
+    font-size: 13px;
+    font-weight: 600;
+    opacity: 0.9;
+	left: 15px;
+	
+}
+
+.card-description p {
+	
+    bottom: 74px;
+	left: 104px;
+	color: black;
+	font-weight: 500;
+	font-size: 17px;
+	font-weight: 500;
+}
+
+.card-description span {
+	color: gray;
+    opacity: 0.8;
+}
+
+.card-description img {
+	position: relative;
+    bottom: 10px;
+}
+
+.complete {
+	display: flex;
+    justify-content: flex-end;
+    position: relative;
+    top: 25px;
+}
+
+.type {
+	display: flex;
+}
+
+.card-image {
+	display: flex;
+	justify-content: flex-start;
+	position: relative;
+	bottom: 10px;
+}
+
+.delete {
+	
+    right: 120px;
+    bottom: 20px;
+}
+
+.edit {
+	
+    right: 150px;
+    bottom: 20px;
+} 
+
+.card h3 {
+
+opacity: 0.8;
+display: flex;
+justify-content: flex-start;
+position: relative;
+left: 30px;
+bottom: 30px;
+font-size: 14px;
+}
+
+.card p {
+	color: gray;
+	opacity: 0.8;
+}
+
+.card-wrapper h5 {
+
+	font-weight: 600;
+    font-size: 14px;
+}
+
+.calendar {
+	padding-bottom: 238px;
+}
+
+
+

@@ -1,0 +1,31 @@
+.avatar {
+    position: absolute;
+    width: 46px;
+    height: 46px;
+    left: 24px;
+    top: 85px;
+
+}
+
+.name {
+    position: absolute;
+    width: 146px;
+    height: 21px;
+    left: 61px;
+    top: 5px;
+    line-height: 14px;
+    text-align: start;
+    font-weight: 649;
+}
+
+.email {
+    position: absolute;
+    color: #90a0b7;
+    top: 27px;
+    left: 63px;
+    font-weight: 500;
+    font-size: 12px;
+    letter-spacing: 0.1px;
+    line-height: 14px;
+    width: 242px;
+}

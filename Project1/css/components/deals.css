@@ -1,0 +1,90 @@
+.card2 {
+	background-color:white;
+	box-shadow: 0px 6px 18px rgba(0, 0, 0, 0.06);
+	border-radius: 4px;
+	height: 41vh;
+	position: relative;
+}
+
+
+.card2 img {
+	display: flex;
+    position: relative;
+    top: 50px;
+	left: 45px;
+	width: 80%;
+    padding-top: 10px;
+}
+
+.card2 h5 {
+	display: flex;
+    font-size: 18px;
+    font-weight: 600;
+    position: relative;
+    top: 10px;
+    left: 40px;
+}
+
+.card2 span {
+	display: flex;
+    position: relative;
+    font-size: 13px;
+    color: gray;
+    opacity: 0.8;
+    font-weight: 500;
+    left: 345px;
+	bottom: 14px;
+	width: 23%;
+}
+
+
+.card3 {
+	background-color:white;
+	box-shadow: 0px 6px 18px rgba(0, 0, 0, 0.06);
+	border-radius: 4px;
+	height: 41vh;
+	margin-top: 40px;
+
+	position: relative;
+	
+}
+
+.card3 img {
+	display: flex;
+    position: relative;
+    top: 45px;
+    left: 40px;
+    width: 50%;
+}
+
+.card3 h5 {
+	display: flex;
+    font-size: 18px;
+    font-weight: 600;
+    position: relative;
+    top: 10px;
+    left: 40px;
+}
+
+.card3 span {
+	display: flex;
+    position: relative;
+    font-size: 13px;
+    color: gray;
+    opacity: 0.8;
+    font-weight: 500;
+    left: 345px;
+	bottom: 14px;
+	width: 23%;
+}
+
+.taskstatus {
+	display: flex;
+    position: relative;
+    bottom: 198px;
+    left: 315px;
+}
+
+.taskstatus ul {
+	list-style-type: none;
+}
